@@ -58,7 +58,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SoumiliPal3&theme=gruvbox&margin-w=10&no-bg=true" />
 </p>
 
----
+--
 
 ### 🔥 GitHub Streak
 

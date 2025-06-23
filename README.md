@@ -2,8 +2,9 @@
 <h3 align="center">B.Tech CSE | Full Stack Developer | AI & Data Science Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full+Stack+%7C+AI+%7C+Cloud+Developer;Let's+build+something+awesome+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full+Stack+%7C+AI+%7C+Cloud+Developer;Let's+build+something+awesome+🚀" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -71,4 +72,5 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SoumiliPal3/SoumiliPal3/output/github-contribution-grid-snake.svg" />
+
 </p>

@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Every day at midnight UTC
+    - cron: "0 0 * * *"
   push:
     branches:
       - main
@@ -21,6 +21,9 @@ jobs:
           outputs: |
             ./output/github-contribution-grid-snake.svg
 
+      - name: Pull latest changes
+        run: git pull origin main --rebase
+
       - name: Push generated snake.svg
         uses: EndBug/add-and-commit@v9
         with:
@@ -28,4 +31,3 @@ jobs:
           author_email: actions@github.com
           message: "Generate snake animation"
           add: "output/github-contribution-grid-snake.svg"
-
